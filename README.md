@@ -258,20 +258,19 @@ You can easily add new languages by creating additional JSON files in `i18n/loca
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Cloudflare (Recommended)
 
-1. Connect your repository to Vercel
-2. Set environment variables in Vercel dashboard
-3. Deploy automatically on push
+1. Just run `npx nuxthub deploy`
 
 ### Other Platforms
 
 The template is compatible with any platform that supports Node.js:
 
+- Vercel
 - Netlify
 - Railway
-- DigitalOcean App Platform
-- AWS Amplify
+- DigitalOcean App Platform (Coming soon)
+- AWS Amplify (Coming soon)
 
 ## 🤝 Contributing
 
