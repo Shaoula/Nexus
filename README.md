@@ -76,8 +76,8 @@ A comprehensive, production-ready Nuxt 3 template with authentication, database 
 1. **Clone the template**
 
    ```bash
-   git clone <your-repo-url>
-   cd nexus
+   npx degit shaoula/nexus <your-project-name>
+   cd <your-project-name>
    ```
 
 2. **Install dependencies**
