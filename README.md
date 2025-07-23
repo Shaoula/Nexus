@@ -1,4 +1,4 @@
-# Nexus - Modern Nuxt 3 Template
+# Nexus
 
 A comprehensive, production-ready Nuxt 3 template with authentication, database integration, PWA support, and modern development tools.
 
